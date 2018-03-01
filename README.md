@@ -15,10 +15,10 @@
 	howWin(chessboard, player, emptyBoard, winCount)
 ```
 
-`chessboard` : 棋盘（二位数组）
-`player`: 玩家棋子标示符（比如 'x'）
-`emptyBoard`: 棋盘没有棋子地格子标示符（默认是 'e'）
-`winCount`: 直线上连接几个棋子获胜（默认 3 颗）
+`chessboard` : 棋盘（二位数组）  
+`player`: 玩家棋子标示符（比如 'x'）  
+`emptyBoard`: 棋盘没有棋子地格子标示符（默认是 'e'）  
+`winCount`: 直线上连接几个棋子获胜（默认 3 颗）  
 
 ### 例如： 
 
